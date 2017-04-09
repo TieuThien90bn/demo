@@ -1,0 +1,9 @@
+E:\tuannx2\youtube channel\sftp_demo\SFTP\SFTP\obj\x86\Debug\SFTP.frmSFTPMain.resources
+E:\tuannx2\youtube channel\sftp_demo\SFTP\SFTP\obj\x86\Debug\SFTP.Properties.Resources.resources
+E:\tuannx2\youtube channel\sftp_demo\SFTP\SFTP\obj\x86\Debug\SFTP.csproj.GenerateResource.Cache
+E:\tuannx2\youtube channel\sftp_demo\SFTP\SFTP\bin\Debug\SFTP.exe
+E:\tuannx2\youtube channel\sftp_demo\SFTP\SFTP\bin\Debug\SFTP.pdb
+E:\tuannx2\youtube channel\sftp_demo\SFTP\SFTP\bin\Debug\Renci.SshNet.dll
+E:\tuannx2\youtube channel\sftp_demo\SFTP\SFTP\obj\x86\Debug\SFTP.csprojResolveAssemblyReference.cache
+E:\tuannx2\youtube channel\sftp_demo\SFTP\SFTP\obj\x86\Debug\SFTP.exe
+E:\tuannx2\youtube channel\sftp_demo\SFTP\SFTP\obj\x86\Debug\SFTP.pdb
