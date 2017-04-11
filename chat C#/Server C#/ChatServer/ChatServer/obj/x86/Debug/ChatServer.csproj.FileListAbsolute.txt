@@ -1,0 +1,7 @@
+E:\tuannx2\youtube channel\chat C#\Server C#\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+E:\tuannx2\youtube channel\chat C#\Server C#\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+E:\tuannx2\youtube channel\chat C#\Server C#\ChatServer\ChatServer\obj\x86\Debug\ChatServer.frmServerMain.resources
+E:\tuannx2\youtube channel\chat C#\Server C#\ChatServer\ChatServer\obj\x86\Debug\ChatServer.Properties.Resources.resources
+E:\tuannx2\youtube channel\chat C#\Server C#\ChatServer\ChatServer\obj\x86\Debug\ChatServer.csproj.GenerateResource.Cache
+E:\tuannx2\youtube channel\chat C#\Server C#\ChatServer\ChatServer\obj\x86\Debug\ChatServer.exe
+E:\tuannx2\youtube channel\chat C#\Server C#\ChatServer\ChatServer\obj\x86\Debug\ChatServer.pdb
